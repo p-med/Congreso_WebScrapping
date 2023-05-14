@@ -9,7 +9,7 @@ f = urllib.request.urlopen(url)
 data = f.read().decode("utf-8")
 readfile = json.loads(data)
 
-with open('datos_abiertos.csv', 'w') as datos_abiertos:
+with open('datos_abiertos.csv', 'w', newline='') as datos_abiertos:
     csvwriter = csv.writer(datos_abiertos)
     count = 0
     for result in readfile:
