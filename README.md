@@ -31,19 +31,24 @@ This project is a Python script that scrapes the data of proyectos (bills or ini
 
 To use this script, you need to have Python 3 installed on your computer. You also need to install the requests and pandas modules using pip or another package manager. You can run the script from your terminal or command prompt by typing:
 
-python data_scraping.py
+`python data_scraping.py`
 
 The script will take some time to scrape the data and save it to a CSV file named prueba4.csv in the same directory as the script.
 
-Requirements and dependencies
+### Requirements and dependencies
+
 This script requires Python 3 and the following modules:
 
-requests: A module that allows you to make HTTP requests in Python.
-pandas: A module that provides data structures and tools for data analysis in Python.
-json: A standard module that can encode and decode JSON data.
-You can install these modules using pip or another package manager. For example, you can type:
+Module | Description
+requests | A module that allows you to make HTTP requests in Python.
+pandas | A module that provides data structures and tools for data analysis in Python.
+json | A standard module that can encode and decode JSON data.
 
-pip install requests pandas
+**You can install these modules using pip or another package manager.**
+
+**For example, you can type:**
+
+`pip install requests pandas`
 
 in your terminal or command prompt.
 
