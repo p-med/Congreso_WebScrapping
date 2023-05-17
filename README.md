@@ -1,4 +1,4 @@
-# Bill's production and development of paraguayan congressmen
+# Bills production and development of paraguayan congressmen
 
 The idea behind this is to make the projects, content and authors data more available and to improve over accountability when it comes to judge paraguyan congressmen.
 
@@ -27,7 +27,7 @@ This project is a Python script that scrapes the data of proyectos (bills or ini
 
 To use this script, you need to have Python 3 installed on your computer. You also need to install the requests and pandas modules using pip or another package manager. You can run the script from your terminal or command prompt by typing:
 
-python prueba4.py
+python data_scraping.py
 
 The script will take some time to scrape the data and save it to a CSV file named prueba4.csv in the same directory as the script.
 
