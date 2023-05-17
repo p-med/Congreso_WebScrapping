@@ -39,10 +39,11 @@ The script will take some time to scrape the data and save it to a CSV file name
 
 This script requires Python 3 and the following modules:
 
-Module | Description
-requests | A module that allows you to make HTTP requests in Python.
-pandas | A module that provides data structures and tools for data analysis in Python.
-json | A standard module that can encode and decode JSON data.
+| Module   | Description                                                                   |
+| -------- | ----------------------------------------------------------------------------- |
+| requests | A module that allows you to make HTTP requests in Python.                     |
+| pandas   | A module that provides data structures and tools for data analysis in Python. |
+| json     | A standard module that can encode and decode JSON data.                       |
 
 **You can install these modules using pip or another package manager.**
 
