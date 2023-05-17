@@ -33,7 +33,7 @@ To use this script, you need to have Python 3 installed on your computer. You al
 
 `python data_scraping.py`
 
-The script will take some time to scrape the data and save it to a CSV file named prueba4.csv in the same directory as the script.
+The script will take some time to scrape the data and save it to a CSV file named congresistas_proyectos.csv in the same directory as the script.
 
 ### Requirements and dependencies
 
