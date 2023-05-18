@@ -6,7 +6,7 @@ The data is scraped from the official Congress API, which provides information a
 
 **Source: https://datos.congreso.gov.py/opendata/datos**
 
-This project is a Python script that scrapes the data of proyectos (bills or initiatives) of parlamentarios (congressmen or congresswomen) of Paraguay from the official website of the Congreso Nacional de Paraguay (National Congress of Paraguay). The script uses the requests and pandas modules to make HTTP requests to the API and process the JSON data. The script outputs a CSV file with the following columns:
+This project consists of a Python script that scrapes the data of bills or initiatives of the senators and deputies of Paraguay from the official website of the National Congress of Paraguay. The script uses the requests and pandas modules to make HTTP requests to the API and process the JSON data. The script outputs a CSV file with the following columns:
 
 | Column                | Description                                                                                                                                              | Data type |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
