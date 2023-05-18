@@ -1,8 +1,8 @@
 # Bills production and development of paraguayan congressmen
 
-The idea behind this is to make the projects, content and authors data more available and to improve over accountability when it comes to judge paraguyan congressmen.
+This project aims to make the data of bills or initiatives proposed by the congressmen or congresswomen of Paraguay more accessible and transparent. The data can help to evaluate and hold accountable the performance of the legislators.
 
-All the data comes from the official Congress API. The use is fair and the code is free for everyone to use, improve or modify.
+The data is scraped from the official Congress API, which provides information about the projects, content, and authors of each bill. The use of this data is fair and the code is free for anyone to use, improve, or modify.
 
 **Source: https://datos.congreso.gov.py/opendata/datos**
 
